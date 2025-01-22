@@ -30,7 +30,7 @@ Many brands using the PACE BMS, including:
 
 If your ports look something like this, its likely a PACE BMS:
 
-![PACE BMS Ports](https://github.com/Tertiush/bmspace/blob/main/pace-bms-ports.png?raw=true)
+![PACE BMS Ports](https://github.com/RoganDawes/bmspace/blob/main/pace-bms-ports.png?raw=true)
 
 ## 3. Configuring
 **Currently the DEV version is the most capable, and should work for most.**
